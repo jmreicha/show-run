@@ -1,6 +1,6 @@
 # show-run
 
-A Kubectl plugin for showing what's running in your cluster.
+A Kubectl plugin for showing what's running in your Kubernetes cluster.
 
 ## Examples
 
